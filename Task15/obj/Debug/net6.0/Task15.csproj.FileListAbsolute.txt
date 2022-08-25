@@ -1,0 +1,15 @@
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\bin\Debug\net6.0\Task15.exe
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\bin\Debug\net6.0\Task15.deps.json
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\bin\Debug\net6.0\Task15.dll
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\bin\Debug\net6.0\Task15.pdb
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\Task15.dll
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\refint\Task15.dll
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\Task15.pdb
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+C:\Users\marym\OneDrive\Документы\Home work 22.08.22\Task15\obj\Debug\net6.0\ref\Task15.dll
